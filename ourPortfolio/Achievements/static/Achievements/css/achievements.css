@@ -1,0 +1,18 @@
+.row1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: left;
+    
+}
+
+div p{
+    margin-left: 3000px;
+}

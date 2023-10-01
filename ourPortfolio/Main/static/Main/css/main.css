@@ -1,0 +1,44 @@
+img{
+    margin: 20px;
+}
+
+.Ulyana{
+    width: 300px;
+    height: 300px;
+}
+
+.Pasha{
+    width: 250px;
+    height: 300px;
+}
+
+.Nazar{
+    width: 300px;
+    height: 300px;
+}
+
+.Danil{
+    width: 330px;
+    height: 300px;
+}
+.p1{
+    display: inline-block;
+    margin-left: 60px;
+    font-size: 20px;
+}
+.p2{
+    display: inline-block;
+    margin-left: 82px;
+    margin-bottom: 480px;
+    font-size: 20px;
+}
+.p3{
+    display: inline-block;
+    margin-left: 160px;
+    font-size: 20px;
+}
+.p4{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 20px;
+}
